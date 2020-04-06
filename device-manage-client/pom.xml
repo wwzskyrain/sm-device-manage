@@ -13,11 +13,7 @@
 
     <dependencies>
         <!-- 串口读写jar，2007年的了，不知道能不能用 -->
-        <dependency>
-            <groupId>org.rxtx</groupId>
-            <artifactId>rxtx</artifactId>
-            <version>2.1.7</version>
-        </dependency>
+
 
     </dependencies>
 
