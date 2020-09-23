@@ -45,3 +45,15 @@
 ## 2.3 java窗口应用程序
 1.  https://www3.ntu.edu.sg/home/ehchua/programming/java/J4a_GUI.html
 2.  http://freesourcecode.net/javaprojects/12768/A-lot-of-Java-GUI-programming-examples#.XoPmV9MzZTY
+3.  https://www.yiibai.com/swing/home.html --一个教程式的网站
+4.  https://www.studytonight.com/java/java-swing.php --英文版的教程网站
+5.  Swing Application Framework -难道是swing中的常用框架，
+    https://www.oracle.com/technical-resources/articles/javase/swingappfr.html
+    
+6.  
+
+
+## 3.素材
+### 3.1 图片素材
+1.  https://icon.52112.com/ 这个网站可以下载图标，每天免费10个，够用了
+2.  

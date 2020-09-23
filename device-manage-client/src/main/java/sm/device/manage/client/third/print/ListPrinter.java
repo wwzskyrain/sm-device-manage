@@ -3,7 +3,6 @@ package sm.device.manage.client.third.print;
 import com.alibaba.fastjson.JSON;
 
 import javax.print.*;
-import javax.print.attribute.DocAttributeSet;
 import javax.print.attribute.HashDocAttributeSet;
 import javax.print.attribute.HashPrintRequestAttributeSet;
 import javax.print.attribute.PrintRequestAttributeSet;
@@ -21,7 +20,7 @@ import java.util.Arrays;
  */
 public class ListPrinter {
 
-    private static final String PDF_PRINTER_NAME = "PDFwriter";
+    private static final String PDF_PRINTER_NAME = "hello";
 
     public static void main(String[] args) {
         try {
